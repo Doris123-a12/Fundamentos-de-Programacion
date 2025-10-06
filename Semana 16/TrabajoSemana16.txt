@@ -1,1 +1,4 @@
-
+Registro 1: Práctica de archivos de texto con Python.
+Registro 2: Uso de write() para guardar varias líneas.
+Registro 3: Lectura posterior con readline() línea por línea.
+Registro 4: Cerrar archivos garantiza que se guarden los cambios.
